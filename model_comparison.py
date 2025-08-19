@@ -1,3 +1,12 @@
+
+
+"""
+Credits to the authors of:
+Practically Significant Method Comparison Protocols for Machine Learning in Small Molecule Drug Discovery.
+Ash, J. R.; Wognum, C.; Rodríguez-Pérez, R.; Aldeghi, M.; Cheng, A. C.; Clevert, D.-A.; Engkvist, O.; Fang, C.; Price, D. J.; Hughes-Oliver, J. M.; Walters, W. P. 
+November 7, 2024. https://doi.org/10.26434/chemrxiv-2024-6dbwv-v2.
+
+"""
 import warnings
 
 import matplotlib.pyplot as plt
